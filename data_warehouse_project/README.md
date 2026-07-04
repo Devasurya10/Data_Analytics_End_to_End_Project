@@ -1,6 +1,6 @@
 # data_warehouse_project
 
-## 📖 Project Overview:
+### 📖 Project Overview:
 
 This project involves
 
@@ -23,7 +23,7 @@ The project is organized into three data layers:
 
 The FactSales view is the primary analytical dataset and is used as the source for building the next Exploratory Data Analysis (EDA) project layer.  
 
-## 🛠️ Datasets:  
+### 🛠️ Datasets:  
 
 The datasets folder contains the source files used to build the warehouse  
 
