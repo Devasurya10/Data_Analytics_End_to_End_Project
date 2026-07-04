@@ -1,6 +1,6 @@
 # advanced_analytics_project
 
-📖 Project Overview:
+### 📖 Project Overview:
 
 This repository contains advanced SQL analytics performed on the Gold Layer of the Data Warehouse project. It builds upon the curated analytical model to generate deeper business insights using advanced SQL techniques such as window functions, aggregations, and analytical reporting.
 
@@ -8,7 +8,7 @@ This script covers various analyses such as time-based trends, cumulative analyt
   
 The report _customers consolidates key customer metrics and behaviors.
 
-🛠️ Data Source
+### 🛠️ Data Source
 
 This project uses the Gold Layer from the Data Warehouse.  
   
@@ -19,7 +19,7 @@ The analytical model includes:
 . DimProduct  
 
 
-📊 Analysis Categories  
+## 📊 Analysis Categories  
 
 The scripts.sql file contains the following analytical queries:  
 
@@ -29,7 +29,7 @@ The scripts.sql file contains the following analytical queries:
 10. Part-to-Whole Analysis  
 11. Data Segmentation
 
-📋 Report_customers  
+### 📋 Report_customers  
  This report consolidates key customer metrics and behaviors.   
    
  1. Gathers essential fields such as names, ages, and transaction details.  
@@ -37,7 +37,7 @@ The scripts.sql file contains the following analytical queries:
  3. Aggregates customer-level metrics:   
  4. Calculates valuable KPIs.
   
-📂 REPOSITORY STRUCTURE  
+## 📂 REPOSITORY STRUCTURE  
 ```  
 advanced-analytics_project/
 │
