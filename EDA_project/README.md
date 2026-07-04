@@ -1,14 +1,14 @@
 # EDA_project  
 ```Prerequisite: This project uses the Gold layer created in the Data Warehouse project.```  
   
-📖 Project Overview:  
+### 📖 Project Overview:  
 
 This folder contains SQL-based Exploratory Data Analysis (EDA) performed on the Gold Layer of the Data Warehouse project.  
 
 The analysis uses the Fact tables and dimension tables, to generate insights into customers, products, and sales performance. The objective is to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. The script focuses on a specific analytical theme and demonstrates best practices for SQL queries.  
 
 
-📝 Exploration Categories  
+## 📝 Exploration Categories  
   
 The Exploration.sql file is organized into the following sections.  
 1. Database Exploration
@@ -18,13 +18,13 @@ The Exploration.sql file is organized into the following sections.
 5. Magnitude Analysis
 6. Ranking Analysis
 
-🛠️ Technologies Used  
+### 🛠️ Technologies Used  
   
 . SQL  
 . Data Warehouse Gold Layer  
 . Exploratory Data Analysis (EDA)  
 
-📂 REPOSITORY STRUCTURE  
+## 📂 REPOSITORY STRUCTURE  
 ```  
 EDA_project  
 │
