@@ -1,6 +1,6 @@
 # data_warehouse_project
 
-📖 Project Overview:
+## 📖 Project Overview:
 
 This project involves
 
@@ -9,7 +9,7 @@ This project involves
 3. Data Modeling: Developing fact and dimension tables optimized for analytical queries.  
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.  
 
-🏗️ Project Architecture:
+## 🏗️ Project Architecture:
 
 The project is organized into three data layers:  
 
@@ -23,14 +23,14 @@ The project is organized into three data layers:
 
 The FactSales view is the primary analytical dataset and is used as the source for building the next Exploratory Data Analysis (EDA) project layer.  
 
-🛠️ Datasets:  
+## 🛠️ Datasets:  
 
 The datasets folder contains the source files used to build the warehouse  
 
 1. source_crm:    
 2. source_erp:    
 
-📂 REPOSITORY STRUCTURE    
+## 📂 REPOSITORY STRUCTURE    
 ```
  data-warehouse-project/  
 │    
