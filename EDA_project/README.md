@@ -1,0 +1,2 @@
+# SQL_EDA_project
+A comprehensive collection of SQL scripts for data exploration. These scripts cover various analyses such as database exploration,dimensions exploration,date exploration,measures exploration,magnitude and ranking. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. The script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
