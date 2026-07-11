@@ -18,7 +18,6 @@ The analytical model includes:
 . DimCustomer  
 . DimProduct  
 
-
 ## 📊 Analysis Categories  
 
 The scripts.sql file contains the following analytical queries:  
@@ -36,6 +35,13 @@ The scripts.sql file contains the following analytical queries:
  2. Segments customers into categories (VIP, Regular, New) and age groups.  
  3. Aggregates customer-level metrics:   
  4. Calculates valuable KPIs.
+
+## 📸 Project Preview
+
+### Report
+
+![advanced_analytics_project](report_customers.png)
+
   
 ## 📂 REPOSITORY STRUCTURE  
 ```  
@@ -43,5 +49,6 @@ advanced-analytics_project/
 │
 ├── scripts.sql
 ├── report_customers.sql
+├── report_customers.png
 └── README.md
 ```
