@@ -28,7 +28,18 @@ The FactSales view is the primary analytical dataset and is used as the source f
 The datasets folder contains the source files used to build the warehouse  
 
 1. source_crm:    
-2. source_erp:    
+2. source_erp:
+
+report_customers.png
+## 📸 Project Preview
+
+### Silver Tables
+
+![data_warehouse_project](scripts/silver/silver_sales_details.png)
+
+### Fact_sales
+
+![data_warehouse_project](scripts/gold/gold_factsales.png)
 
 ## 📂 REPOSITORY STRUCTURE    
 ```
@@ -44,9 +55,10 @@ The datasets folder contains the source files used to build the warehouse
 │  
 ├── scripts/                            # SQL scripts for ETL and transformations  
 │   ├── bronze/                         # Scripts for extracting and loading raw data  
-│   ├── silver/                         # Scripts for cleaning and transforming data   
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│         ├──silver_sales_details.png 
 │   ├── gold/                           # Scripts for creating analytical models  
-│  
+│         ├──gold_factsales.png 
 │  
 ├── README.md                           # Project overview and instructions  
 ├── LICENSE                             # License information for the repository  
