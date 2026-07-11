@@ -18,6 +18,11 @@ The Exploration.sql file is organized into the following sections.
 5. Magnitude Analysis
 6. Ranking Analysis
 
+## 📸 Project Preview
+
+### Exploration
+![EDA_project](EDA_exploration.png)
+
 ### 🛠️ Technologies Used  
   
 . SQL  
